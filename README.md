@@ -20,7 +20,8 @@ It caters the problems of both Students and Teachers by giving them an opportuni
 
 ## Screenshots
 
-<img src="https://github.com/symaticvisuals/blockchain-atomic-swap/blob/main/images/Pasted%20image%2020220403110733.png?raw=true">
+<img src="https://github.com/symaticvisuals/artist-platform/blob/main/Screenshots/Pasted%20image%2020220404122543.png?raw=true">
+<img src="https://github.com/symaticvisuals/artist-platform/blob/main/Screenshots/Pasted%20image%2020220404122656.png?raw=true">
 
 
 
